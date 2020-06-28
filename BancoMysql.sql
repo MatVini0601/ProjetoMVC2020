@@ -12,5 +12,4 @@ nome_mae varchar(50) not null,
 tp_usuario int(1) default null,
 primary key(id_cliente)
 );
-drop table tbl_cliented33;
 select * from tbl_clienteD33;
